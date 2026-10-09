@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/taskflow-3d/static/css/main.a2d15c98.css",
+    "main.js": "/taskflow-3d/static/js/main.8395a16e.js",
+    "static/js/453.a3d6d0a6.chunk.js": "/taskflow-3d/static/js/453.a3d6d0a6.chunk.js",
+    "index.html": "/taskflow-3d/index.html",
+    "main.a2d15c98.css.map": "/taskflow-3d/static/css/main.a2d15c98.css.map",
+    "main.8395a16e.js.map": "/taskflow-3d/static/js/main.8395a16e.js.map",
+    "453.a3d6d0a6.chunk.js.map": "/taskflow-3d/static/js/453.a3d6d0a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2d15c98.css",
+    "static/js/main.8395a16e.js"
+  ]
+}
